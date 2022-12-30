@@ -36,6 +36,7 @@ Case Study Summary
 -> Previous applications with Refused, Cancelled, Unused loans also have default which is a matter of concern.
 
 -> This indicates that the financial company had Refused/Cancelled previous application but has approved the current and is facing default on these.
+
 -> Credible Applications refused
 
 -> Unused applications have lower loan amount. Is this the reason for no usage?
