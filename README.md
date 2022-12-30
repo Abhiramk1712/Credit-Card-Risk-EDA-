@@ -13,7 +13,7 @@ Case Study Summary
 
 - Chances of client havind payment difficulty
 
-All the below variables were established in analysis of Application dataframe as leading to default. Checked these against the Approved loans which have defaults, and it proves to be correct
+-- All the below variables were established in analysis of Application dataframe as leading to default. Checked these against the Approved loans which have defaults, and it proves to be correct
 Medium income
 25-35 years olds, followed by 35-45 years age group
 Male
