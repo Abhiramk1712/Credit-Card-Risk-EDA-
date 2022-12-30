@@ -9,6 +9,8 @@ There are 2 types οf risks assοciated while prοviding lοan tο a client
 Business Requirement:
 Derive data-driven, buiness-driven, insight-driven, analysis on what type of customers are prone to have payment difficulties and which sector of clients should be targeted.
 
+Dataset :- https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
+
 Case Study Summary
 
 - Chances of client havind payment difficulty
