@@ -1,1 +1,1 @@
-# Credit-Card-Risk-EDA-
+# Credit_Card_Risk (EDA)
